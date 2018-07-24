@@ -1,0 +1,1 @@
+Principal component analysis (PCA) is one of a family of techniques for taking high-dimensional data and using the dependencies between the variables to represent it in a more tractable, lower-dimensional basis, without losing too much information. This repo is about Telecom churn analysis using PCA
